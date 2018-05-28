@@ -28,5 +28,5 @@ Gem::Specification.new do |s|
 
   s.add_dependency "devise", "~> 4.0.1"
   s.add_dependency "grape", "~> 0.7"
-  s.add_dependency "rails", "> 3.2", "< 5"
+  s.add_dependency "rails", "~> 5.0.1"
 end
